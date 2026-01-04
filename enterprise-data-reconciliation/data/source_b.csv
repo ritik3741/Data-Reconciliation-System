@@ -1,0 +1,5 @@
+transaction_id,account_id,amount,transaction_date
+T001,A101,5000,2024-01-10
+T002,A102,3200,2024-01-11
+T003,A103,7000,2024-01-12
+T005,A105,4000,2024-01-14

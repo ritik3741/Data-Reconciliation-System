@@ -1,0 +1,6 @@
+transaction_id,account_id_a,amount_a,transaction_date_a,account_id_b,amount_b,transaction_date_b,reconciliation_status
+T001,A101,5000.0,2024-01-10,A101,5000.0,2024-01-10,MATCH
+T002,A102,3000.0,2024-01-11,A102,3200.0,2024-01-11,AMOUNT_MISMATCH
+T003,A103,7000.0,2024-01-12,A103,7000.0,2024-01-12,MATCH
+T004,A104,2000.0,2024-01-13,,,,MISSING_IN_B
+T005,,,,A105,4000.0,2024-01-14,MISSING_IN_A
