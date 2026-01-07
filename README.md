@@ -172,11 +172,10 @@ Built a SQL–Python data reconciliation system to validate enterprise transacti
 ## 👤 Author
 
 **Ritik Kumar**
-Aspiring Data Analyst / Data Engineer
-Focused on building real-world, enterprise-grade data systems
 
 ---
 
 ## ⭐ If you find this project useful
 
 Give it a ⭐ on GitHub and feel free to fork or enhance it
+
